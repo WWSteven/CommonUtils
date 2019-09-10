@@ -23,5 +23,6 @@
 ##  repositories { 
         maven { url "https://raw.githubusercontent.com/WWSteven/CommonUtils/master" }
     }
- ## implementation 'com.steven:common_utils:1.0.0'
+## 引用
+  implementation 'com.steven:common_utils:1.0.0'
  
