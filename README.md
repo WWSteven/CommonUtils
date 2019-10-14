@@ -23,5 +23,5 @@
 ## 仓库 
   maven { url "https://raw.githubusercontent.com/WWSteven/CommonUtils/master" }
 ## 引用
-  implementation 'com.steven:common_utils:1.0.1'
+  implementation 'com.steven:common_utils:1.0.2-20191014'
  
